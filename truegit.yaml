@@ -1,8 +1,8 @@
 # The title of your blog.
-title: Truegit
+title: s-t.one
 
 # Description
-description: A reference repository for Truegit blog
+description: My blog for whatever it is I do
 
 # Theme color. Must be a HEX value in quotes
 theme: "#CF508A"
@@ -22,12 +22,11 @@ bodyFont: LORA
 
 # We have a few layouts available. Manhattan, Brooklyn, and the default layout
 layout:
-  type: Manhattan
 # This folder is where all the files related to the blog would live
 bannerImage:
   # The path must be
-  path: /banner.webp
-logoImage: ./logo.png
+  path: "./assets/banner.jpg"
+logoImage: "./assets/unnamed.jpg"
 navLinks:
   - title: Archives
     url: /archives
@@ -36,27 +35,21 @@ navLinks:
   - title: Official Docs
     url: https://docs.truegit.io
     isExternal: true
-  - title: Clone Me
-    url: https://github.com/Kollate/truegit-test
-    isExternal: true
 socials:
-  linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-  instagram: https://www.instagram.com/quantdaddy/
-  github: https://github.com/quant-daddy
+  linkedin: https://www.linkedin.com/in/stonefrangowlakis
+  instagram: https://www.instagram.com/stonefrango/
+  github: https://github.com/stonefrango
+  youtube: https://www.youtube.com/@anormalusername
 authors:
-  quantdaddy:
-    name: Suraj Keshri
-    title: Founder, Gully
-    description: Enjoys coding and coding only
-    url: https://gully.to
+  stonefrango:
+    name: Stone Frangowlakis
+    title: 'Human'
+    description: augh
     profileImage:
-      path: "./assets/quantdaddy.jpeg"
+      path: "./assets/unnamed.jpg"
     socials:
-      linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-      instagram: https://www.instagram.com/quantdaddy/
-      github: https://github.com/quant-daddy
-      twitter: https://twitter.com/quantdaddy
-      url: https://google.com
-      youtube: https://www.youtube.com/channel/UC5YwzJ-Vv_akOUIe5FZ-zDA
-      email: hello@truegit.io
-      reddit: https://www.reddit.com/r/kubernetes/
+      linkedin: https://www.linkedin.com/in/stonefrangowlakis
+      instagram: https://www.instagram.com/stonefrango/
+      github: https://github.com/stonefrango
+      youtube: https://www.youtube.com/@anormalusername
+      email: me@s-t.one
